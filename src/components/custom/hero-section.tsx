@@ -5,18 +5,6 @@ import Link from "next/link"
 export function HeroSection() {
     return (
         <div className="relative overflow-hidden">
-            <div className="absolute inset-0 z-0">
-                <Image
-                    src="/placeholder.svg?height=800&width=1920"
-                    alt="Anime hero background"
-                    width={1920}
-                    height={800}
-                    className="h-full w-full object-cover opacity-30"
-                    priority
-                />
-                <div className="absolute inset-0 hero-gradient"></div>
-            </div>
-
             <div className="container relative z-10 mx-auto px-4 py-16 md:py-24 lg:py-32">
                 <div className="grid gap-8 md:grid-cols-2 md:gap-12 items-center">
                     <div className="space-y-6">
