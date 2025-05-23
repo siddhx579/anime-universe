@@ -31,7 +31,7 @@ Anime Universe is a modern, responsive web application that serves as a comprehe
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/anime-universe.git
+   git clone https://github.com/siddhx579/anime-universe.git
    cd anime-universe
    \`\`\`
 
