@@ -1,7 +1,5 @@
 # Anime Universe
 
-![Anime Universe Banner](https://i.imgur.com/placeholder.png)
-
 Anime Universe is a modern, responsive web application that serves as a comprehensive database for anime and manga, similar to IMDB but specifically designed for anime enthusiasts. Built with Next.js 15 and React 18, this platform provides detailed information about anime series, movies, and manga, including episodes, characters, voice actors, ratings, and more.
 
 ## 🌟 Features
@@ -64,18 +62,6 @@ Anime Universe is a modern, responsive web application that serves as a comprehe
 
 This project uses the [Jikan API](https://jikan.moe/), an unofficial MyAnimeList API. The API provides comprehensive data about anime, manga, characters, and more. Please note that the API has rate limiting, so excessive requests may be throttled.
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://i.imgur.com/placeholder1.png" alt="Home Page" width="45%">
-  <img src="https://i.imgur.com/placeholder2.png" alt="Anime Details" width="45%">
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/placeholder3.png" alt="Search Results" width="45%">
-  <img src="https://i.imgur.com/placeholder4.png" alt="Manga Details" width="45%">
-</div>
-
 ## 🔮 Future Improvements
 
 - User authentication for personalized experiences
@@ -99,4 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Siddhant Kapoor
